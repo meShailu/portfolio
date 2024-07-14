@@ -76,7 +76,7 @@ export const projects = [
     des: "Eventify Now: Your ultimate event planning companion, turning every occasion into a memorable experience.",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "https://eventify-now.vercel.app/",
   },
   {
     id: 2,
@@ -84,7 +84,7 @@ export const projects = [
     des: "Explore the Possibilities of AI Chatting with BrainwaveCurve",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    link: "https://brainwave-seven-delta.vercel.app/",
   },
   {
     id: 3,
@@ -100,7 +100,7 @@ export const projects = [
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "apple-website-beryl.vercel.app",
   },
 ];
 
